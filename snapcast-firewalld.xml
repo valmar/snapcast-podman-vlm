@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>Snapcast</short>
+  <description>Multiroom Client-Server Audio Player.</description>
+  <port protocol="tcp" port="1704"/>
+  <port protocol="tcp" port="1705"/>
+  <port protocol="tcp" port="1780"/>
+</service>
